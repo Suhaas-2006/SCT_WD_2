@@ -6,7 +6,7 @@ A modern and fully responsive stopwatch web application developed as part of my 
 
 View the live project here:
 
-**Live Demo:** https://your-live-demo-link.com
+**Live Demo:** https://suhaas-2006.github.io/SCT_WD_2/
 
 ## 📂 Repository
 
