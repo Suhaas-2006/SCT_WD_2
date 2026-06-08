@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced Stopwatch</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <div class="theme-switch">
+        <button id="themeBtn">🌙 Dark Mode</button>
+    </div>
+
+    <h1>⏱ Stopwatch</h1>
+
+    <div class="circle">
+
+        <svg>
+            <circle cx="150" cy="150" r="140"></circle>
+            <circle cx="150" cy="150" r="140" id="progress"></circle>
+        </svg>
+
+        <div id="display">
+            00:00:00:000
+        </div>
+
+    </div>
+
+    <div class="buttons">
+        <button id="start">Start (S)</button>
+        <button id="pause">Pause (P)</button>
+        <button id="lap">Lap (L)</button>
+        <button id="reset">Reset (R)</button>
+    </div>
+
+    <div class="laps-container">
+        <h2>Lap Times</h2>
+        <ul id="laps"></ul>
+    </div>
+
+    <button id="exportBtn">📥 Export CSV</button>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
