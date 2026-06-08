@@ -143,9 +143,9 @@ Through this project, I gained hands-on experience in:
 
 Web Development Intern
 
-**GitHub:** https://github.com/your-username
+**GitHub:** https://github.com/Suhaas-2006/SCT_WD_2
 
-**LinkedIn:** https://linkedin.com/in/your-profile
+**LinkedIn:** https://www.linkedin.com/in/sai-suhaas-nadakudity-a15992339/
 
 ---
 
