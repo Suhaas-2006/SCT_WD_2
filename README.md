@@ -12,7 +12,7 @@ View the live project here:
 
 Explore the source code:
 
-**GitHub Repository:** https://github.com/your-username/stopwatch-web-app
+**GitHub Repository:** https://github.com/Suhaas-2006/SCT_WD_2
 
 ---
 
